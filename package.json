@@ -1,0 +1,9 @@
+{
+  "name": "aun-naqvi-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Aun Naqvi, freelance translator",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
